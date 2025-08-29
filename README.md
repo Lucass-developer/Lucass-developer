@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#007396;">Welcome to my profile! 👋</h1>
+<h1 align="center" style="color:#007396;">Welcome to my profile! </h1>
 
 <p align="center">
   <b style="font-size: 1.2em;">Java Beginner</b>
